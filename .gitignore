@@ -1,3 +1,4 @@
 github-zips
-.session.vim
 node_modules
+.session.vim
+.DS_Store
